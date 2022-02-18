@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Ivan Bulygin
-- 🌳 Currently working in Theoretical Neuroscience, looking for computational models of memory (IST Austria)
+- 🌳 Currently working in IST Austria,Tim Vogels group
 - 🪴 MSc in Data Science (Skoltech) 
 - 🌱 BSc in Applied Mathematics and Physics (MIPT)
 
