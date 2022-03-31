@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### I'm Ivan Bulygin
-- 🌳 Currently working in IST Austria, Tim Vogels group
-- 🪴 MSc in Data Science (Skoltech) 
-- 🌱 BSc in Applied Mathematics and Physics (MIPT)
+- 🌳 Currently in IST Austria (Vienna), Tim Vogels group
+- 🪴 MSc in Data Science (Skoltech, Moscow) 
+- 🌱 BSc in Applied Mathematics and Physics (MIPT, Moscow)
 
 
 ### Languages and tools
